@@ -1,3 +1,3 @@
 # aya-alhomran-Portfilo
-https://kytc-front-end.github.io/portfoiloayahom/
+https://github.com/KYTC-Front-End/portfoiloayahom
 go to my website (prtifilio)
